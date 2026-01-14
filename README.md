@@ -1,9 +1,9 @@
-### Hola, soy Alexis López 👋
-Desarrollador Web Full Stack Junior | Diseñador Gráfico
+### Hi, I'm Alexis López 👋
+Junior Full Stack Web Developer | Graphic Designer
 
 ---
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -11,7 +11,7 @@ Desarrollador Web Full Stack Junior | Diseñador Gráfico
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-### 🎨 Diseño & UI/UX
+### 🎨 Design & UI/UX
 <div align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
@@ -24,7 +24,7 @@ Desarrollador Web Full Stack Junior | Diseñador Gráfico
   <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" />
 </div>
 
-### ⚛️ Frameworks & Librerías
+### ⚛️ Frameworks & Libraries
 <div align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -33,7 +33,7 @@ Desarrollador Web Full Stack Junior | Diseñador Gráfico
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-### 🛠️ Herramientas & Bases de Datos
+### 🛠️ Tools & Databases
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
