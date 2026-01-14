@@ -1,4 +1,4 @@
-### Hi, I'm Alexis López 👋
+# Hi, I'm Alexis López 👋
 Junior Full Stack Web Developer & Graphic Designer
 
 - 🎓 Currently studying **Web Application Development (DAW)**.
@@ -49,10 +49,6 @@ Junior Full Stack Web Developer & Graphic Designer
 ---
 ### 📩 Let's Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/isalexis" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
-  </a>
-  <a href="mailto:isalexis.design@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/isalexis" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isalexis.design@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" /></a>
 </div>
