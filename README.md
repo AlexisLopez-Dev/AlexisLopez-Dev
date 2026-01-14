@@ -47,7 +47,6 @@ Junior Full Stack Web Developer & Graphic Designer
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
 ### 📩 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/isalexis" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
