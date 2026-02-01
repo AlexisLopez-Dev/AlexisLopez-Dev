@@ -1,27 +1,22 @@
-name: Generate Space Shooter
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: '0 0 * * *' 
   workflow_dispatch:
+  
+permissions:
+  contents: write 
 
 jobs:
-  build:
+  update-game:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Generar Space Shooter
-        uses: czl9707/gh-space-shooter@v1.4
+      - uses: czl9707/gh-space-shooter@v1
         with:
-          user: AlexisLopez-Dev
-          bg_color: '#0d1117' 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Subir cambios (Push)
-        uses: czl9707/gh-space-shooter@main
-        with:
-          commit_message: "Actualizar gráfico Space Shooter"
-          file_pattern: "gh-space-shooter.svg"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: AlexisLopez-Dev
+          output-path: 'game.gif' 
+          strategy: 'random'
