@@ -54,5 +54,5 @@ Junior Full Stack Web Developer & Graphic Designer
 </div>
 
 <div align="center">
-  <img src="https://github.com/AlexisLopez-Dev/AlexisLopez-Dev/blob/main/gh-space-shooter.svg?raw=true" alt="Space Shooter Graph" />
+  <img src="https://github.com/AlexisLopez-Dev/AlexisLopez-Dev/blob/main/game.gif?raw=true" alt="Space Shooter Game" />
 </div>
