@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Subir cambios (Push)
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: czl9707/gh-space-shooter@main
         with:
           commit_message: "Actualizar gráfico Space Shooter"
           file_pattern: "gh-space-shooter.svg"
