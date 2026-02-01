@@ -52,3 +52,7 @@ Junior Full Stack Web Developer & Graphic Designer
   <a href="https://www.linkedin.com/in/isalexis" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isalexis.design@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" /></a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/AlexisLopez-Dev/AlexisLopez-Dev/blob/main/gh-space-shooter.svg?raw=true" alt="Space Shooter Graph" />
+</div>
