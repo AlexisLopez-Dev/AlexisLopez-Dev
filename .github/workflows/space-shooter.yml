@@ -1,0 +1,27 @@
+name: Generate Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generar Space Shooter
+        uses: czl9707/gh-space-shooter@v1.4
+        with:
+          user: AlexisLopez-Dev
+          bg_color: '#0d1117' 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Subir cambios (Push)
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Actualizar gráfico Space Shooter"
+          file_pattern: "gh-space-shooter.svg"
